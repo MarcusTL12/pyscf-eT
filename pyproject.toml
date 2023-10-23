@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyscf_eT"
+version = "0.0.1"
+authors = [
+  { name="Marcus T. Lexander", email="marcus.t.lexander@ntnu.no" },
+]
+description = "Python package to interface pyscf and eT"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/MarcusTL12/pyscf-eT"

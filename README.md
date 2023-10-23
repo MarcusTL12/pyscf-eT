@@ -1,2 +1,2 @@
 # pyscf-eT
-Python code to interface pyscf and eT
+Python package to interface pyscf and eT
